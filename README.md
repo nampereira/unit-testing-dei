@@ -25,6 +25,7 @@ This repository is dedicated to Unit Testing Tutorials.
 
 ### Who do I talk to? ###
 
-* Ã‚ngelo Martins
+* Ângelo Martins
+* António Costa
 * Nuno Bettencourt
 * Nuno Pereira
