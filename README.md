@@ -27,7 +27,7 @@ We will not define all levels of testing, as we are focusing on [**Unit Testing*
 
 Testing types include: regression testing, acceptance testing, alpha testing, beta testing, functional vs non-functional testing, usability testing and many more. See: [https://en.wikipedia.org/wiki/Software\_testing\#Testing\_types](https://en.wikipedia.org/wiki/Software_testing#Testing_types)
 
-# Unit Testing {#unit-testing}
+# Unit Testing
 
 **Unit Tests** can be defined as a piece of code that exercises a very small area of functionality. A typical unit test will test the behavior of a method, but it can test a few methods in a single class, or a small group of related classes. It is preferable to define small units to be tested, as it is easier to test the behavior of a small portion of code.
 
@@ -50,4 +50,12 @@ It is often necessary to isolate your tests from the behaviour of other classes 
 > **Source**: "Pragmatic Unit Testing in Java with JUnit", Section 1.3 - "Why Should I Bother with Unit Testing?" by Andrew Hunt and David Thomas.
 
 **Next time someone \(maybe a professor, maybe your manager\) asks: **_**Is your code working?**_** You know the right answer is to show your passing tests.**
+
+
+### Who do I talk to? ###
+
+* Ângelo Martins
+* António Costa
+* Nuno Bettencourt
+* Nuno Pereira
 
