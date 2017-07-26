@@ -35,7 +35,7 @@ Your tests should not depend on external factors that are not under your control
 Each test should be able to provide a pass/fail result without having to rely on manual or external checks (which would violate the Independent part of FIRST).
 
 ##### Timely
-Tests should be written or updates at the same time as the code is developed. Do not procrastinate writing tests for later. Have a look at [Test-driven Development](https://en.wikipedia.org/wiki/Test-driven_development) for a common software practice that advocates writing tests before the actual code.
+Tests should be written or updated at the same time as the code is developed. Do not procrastinate writing tests for later. Have a look at [Test-driven Development](https://en.wikipedia.org/wiki/Test-driven_development) for a common software practice that advocates writing tests before the actual code.
 
 
 ### JUnit Best Practices
