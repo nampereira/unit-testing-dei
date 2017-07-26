@@ -1,4 +1,4 @@
-# Software Testing@DEI
+# [Software Testing@DEI](https://nampereira.gitbooks.io/software-testing-dei/content/)
 
 This document provides a short introduction to software testing practices that should be employed in programming courses of the Informatics Engineering program at the Computer Engineering Department \(DEI\) from the School of Engineering of the Polytechnic of Porto \(ISEP/IPP\).
 
