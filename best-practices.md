@@ -2,7 +2,7 @@
 
 This Section collects a number of best practices for Unit Testing...
 
-### Good Tests FIRST {#first}
+### Good Tests FIRST
 
 We will start with the set of practices that are summarized by the acronym F.I.R.S.T: Fast, Independent, Repeatable, Self-checking, and Timely.
 
