@@ -1,6 +1,5 @@
 ---
-description: Introduction to software testing practices @ DEI/ISEP
-URL: https://nampereira.gitbooks.io/software-testing-dei/content/
+description: Introduction to software testing practices @ DEI/ISEP; GitBook: https://nampereira.gitbooks.io/software-testing-dei/content/
 ---
 
 # Software Testing@DEI
