@@ -1,7 +1,3 @@
----
-description: Introduction to software testing practices @ DEI/ISEP; GitBook: https://nampereira.gitbooks.io/software-testing-dei/content/
----
-
 # Software Testing@DEI
 
 This document provides a short introduction to software testing practices that should be employed in programming courses of the Informatics Engineering program at the Computer Engineering Department \(DEI\) from the School of Engineering of the Polytechnic of Porto \(ISEP/IPP\).
@@ -16,6 +12,9 @@ This document is a compilation that leverages the vast amounts of good quality c
 
 > This content is copied verbatim from the source identified at the end of the blockquote.  
 > **Source**: \[a reference to the source\]
+
+### GitBook
+This document is available as a [**GitBook**](https://nampereira.gitbooks.io/software-testing-dei/content/).
 
 # Testing Levels and Testing Types
 
