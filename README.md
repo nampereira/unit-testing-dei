@@ -52,10 +52,18 @@ It is often necessary to isolate your tests from the behaviour of other classes 
 **Next time someone \(maybe a professor, maybe your manager\) asks: **_**Is your code working?**_** You know the right answer is to show your passing tests.**
 
 
-### Who do I talk to? ###
+### Who do I talk to? 
 
 * Ângelo Martins
 * António Costa
 * Nuno Bettencourt
 * Nuno Pereira
+
+# Contents
+
+* [Introduction](README.md)
+* [Unit Testing Best Practices](best-practices.md)
+* [JUnit Walkthrough](junit-walkthrough.md)
+* [Digging Deeper](references.md)
+
 
