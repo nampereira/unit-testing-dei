@@ -25,7 +25,7 @@ Tests should be easy and quick to execute. The goal is to be able to execute and
 This also means that your tests and the units under test should not have minimal dependencies with external components that might be slower or inaccessible. Minimizing these dependencies relates to the next principle and also aligns well with good object-oriented (OO) design practices.
 
 ##### Independent 
-Good unit tests focus on a small amount of code to test and do not interact with external components. Using [**mock objects**](https://en.wikipedia.org/wiki/Mock_object)** **and [**stubs**](https://en.wikipedia.org/wiki/Test_stub) to isolate your tests from other classes. For example, when testing code that accesses a database, one can create a class that simulates the database access such that our tests can run independent of the existence of a database. 
+Good unit tests focus on a small amount of code to test and do not interact with external components. Using [**mock objects**](https://en.wikipedia.org/wiki/Mock_object)** **and [**stubs**](https://en.wikipedia.org/wiki/Test_stub) to isolate your tests from other classes is often necessary. For example, when testing code that accesses a database, one can create a class that simulates the database access such that our tests can run independent of the existence of a database. 
 Your tests should also not rely on preconditions established by other tests so that you are free to select subsets of tests to run and run them in any order. 
  
 ##### Repeatable
