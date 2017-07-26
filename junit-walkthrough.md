@@ -8,7 +8,7 @@ While you can test write all the code necessary for your tests, it is common to 
 > | :--- | :--- |
 > | Write tests easily and in a structured manner. | Framework supplies the developer with a class library that holds: \(i\) base classes or interfaces to inherit; \(ii\) attributes to place in your code to note your tests to run; \(ii\) assert classes that have special assert methods you invoke to verify your code. |
 > | Execute one or all of the unit tests. | Framework provides a test runner \(a console or GUI tool\) that: \(i\) identifies tests in your code; \(ii\) runs tests automatically; \(iii\) indicates status while running; \(iv\) can be automated by command line. |
-> | Review the results of the test runs. | The test-runners will usually provide information such as: \(i\) how many tests ran/didnâ€™t run/failed; \(ii\) the result of each test \(iii\) the ASSERT message you wrote; \(iv\) the code location that failed; \(v\) possibly a full stack trace of any exceptions that caused the test to fail. |
+> | Review the results of the test runs. | The test-runners will usually provide information such as: \(i\) how many tests ran/didn’t run/failed; \(ii\) the result of each test \(iii\) the ASSERT message you wrote; \(iv\) the code location that failed; \(v\) possibly a full stack trace of any exceptions that caused the test to fail. |
 >
 > **Source**: "The Art of Unit Testing with Examples in .NET" by Roy Osherove
 
@@ -48,7 +48,7 @@ As for the test methods, we will use descriptive names in the form: _whenDoingSo
 | Check if attempt to withdraw more than current balance generates error. | WhenWithdrawalMoreThenAvailableFundsThenGenerateError |
 | Check if balance is correctly updated after multiple deposits. | WhenMultipleDepositsThenIncreaseBalanceBySumOfDeposits |
 
-Yes, these are quite long! There are many schools of though on the issue of [naming conventions for unit tests](https://dzone.com/articles/7-popular-unit-test-naming), and you might prefer some other naming convention. What is important is to choose one and keep it consistent.
+Yes, these are quite long! There are many schools of thought on the issue of [naming conventions for unit tests](https://dzone.com/articles/7-popular-unit-test-naming), and you might prefer some other naming convention. What is important is to choose one and keep it consistent.
 
 
 
