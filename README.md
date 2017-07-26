@@ -1,5 +1,5 @@
 ---
-description: Short Introduction of this book
+description: Introduction to software testing practices @ DEI/ISEP
 ---
 
 # Software Testing@DEI
