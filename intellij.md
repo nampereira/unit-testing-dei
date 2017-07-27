@@ -4,7 +4,7 @@ This Section provides some details about setting up a project with IntelliJ IDEA
 
 ### Create a Project
 
-Start by creating a new project in **File**-&gt;**New Projec**t. In the dialog (shown bellow), select **Maven** and then **org.apache.maven.archetypes:maven-archetype-quickstart**. Click **Next**. 
+Start by creating a new project in **File** \to **New Projec**t. In the dialog (shown bellow), select **Maven** and then **org.apache.maven.archetypes:maven-archetype-quickstart**. Click **Next**. 
 
 ![](/assets/intellij-maven-project1.png)
 
@@ -26,15 +26,23 @@ You might see a message \(shown bellow\) asking to import the Maven Project. Sel
 
 This will generate your Project with a folder with the same name as the artifactId given \(**JUnitExample** in this case\). Under this folder, you will have to create a [standard project structure](/%28https://maven.apache.org/guides/introduction/introduction-to-the-standard-directory-layout.html).
 
-Start by creating the directory structure for the application main code.To do this, right click on the main project folder \(here, **JUnitExample**\) and select New-&gt;Directory.
+Start by creating the directory structure for the application main code.To do this, right click on the main project folder \(here, **JUnitExample**\) and select **New** \to **Directory**.
 
 ![](/assets/intellij-maven-project6.png)
 
-You can enter the full path for the application main code folder. The path starts with **src/main/java **and then set it according to the GroupId entered previously \(in our example, **pt.dei.junit\_example**, so we enter** src/main/java/pt/dei/junit-example**\). ![](/assets/intellij-maven-project7.png)Next, create the directory structure for the test code **under the src** folder** **\(in our example, we enter **test/main/java/pt/dei/junit-example**\).![](/assets/intellij-maven-project8.png)You should now have a [standard project structure](/%28https://maven.apache.org/guides/introduction/introduction-to-the-standard-directory-layout.html) similar to the following one.
+You can enter the full path for the application main code folder. The path starts with **src/main/java **and then set it according to the GroupId entered previously \(in our example, **pt.dei.junit\_example**, so we enter **src/main/java/pt/dei/junit-example**\). 
+
+![](/assets/intellij-maven-project7.png)
+
+Next, create the directory structure for the test code **under the src **folder** **\(in our example, we enter **test/main/java/pt/dei/junit-example**\).
+
+![](/assets/intellij-maven-project8.png)
+
+You should now have a [standard project structure](/%28https://maven.apache.org/guides/introduction/introduction-to-the-standard-directory-layout.html) similar to the following one.
 
 ![](/assets/intellij-maven-project9.png)
 
-Now we need to define where are our code and test source folders. Open the project structure settings under **File**-&gt;**Project Structure**. Select the **src/main** folder and set it as the **source folder**. Do this by right clicking the **src/main **folder and selecting the option **Source.**
+Now we need to define where are our code and test source folders. Open the project structure settings under **File** \to **Project Structure**. Select the **src/main** folder and set it as the **source folder**. Do this by right clicking the **src/main **folder and selecting the option **Source.**
 
 ![](/assets/intellij-maven-project10.png)
 
