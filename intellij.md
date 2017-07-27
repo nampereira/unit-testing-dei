@@ -4,7 +4,7 @@ This Section provides some details about setting up a project with IntelliJ IDEA
 
 ### Create a Project
 
-Start by creating a new project in **File**-&gt;**New Projec**t. In the dialog, select **Maven** and then **org.apache.maven.archetypes:maven-archetype-quickstart**. Click **Next**. 
+Start by creating a new project in **File**-&gt;**New Projec**t. In the dialog (shown bellow), select **Maven** and then **org.apache.maven.archetypes:maven-archetype-quickstart**. Click **Next**. 
 
 ![](/assets/intellij-maven-project1.png)
 
