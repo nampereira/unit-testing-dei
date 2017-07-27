@@ -4,7 +4,27 @@ This Section provides some details about setting up a project with IntelliJ IDEA
 
 ### Create a Project
 
-Start by creating a new project in **File**-&gt;**New Projec**t. In the folowing dialog, select **Maven** and then **org.apache.maven.archetypes:maven-archetype-quickstart**. Click **Next**. This will take you to the following dialog, where you can enter the GroupId \(e.g. **pt.dei.junit\_example**\), ArtifactId \(e.g. **JunitExample**\) and Version \(e.g. 1.0-SNAPSHOT\). Proceed with **Next**. ![](/assets/intellij-maven-project2.png)You can leave the default values in the following dialog and click **Next**.![](/assets/intellij-maven-project3.png)Finally, enter the project name \(e.g. JUnitExample\) and **Finish**.![](/assets/intellij-maven-project4.png)You might see a message \(shown bellow\) asking to import the Maven Project. Select **Enable Auto-Import**.![](/assets/intellij-maven-project5.png)This will generate your Project with a folder with the same name as the artifactId given \(**JUnitExample** in this case\). Under this folder, you will have to create a [standard project structure](/%28https://maven.apache.org/guides/introduction/introduction-to-the-standard-directory-layout.html).
+Start by creating a new project in **File**-&gt;**New Projec**t. In the dialog, select **Maven** and then **org.apache.maven.archetypes:maven-archetype-quickstart**. Click **Next**. 
+
+![](/assets/intellij-maven-project1.png)
+
+This will take you to the following dialog, where you can enter the GroupId \(e.g. **pt.dei.junit\_example**\), ArtifactId \(e.g. **JunitExample**\) and Version \(e.g. 1.0-SNAPSHOT\). Proceed with **Next**. 
+
+![](/assets/intellij-maven-project2.png)
+
+You can leave the default values in the following dialog and click **Next**.
+
+![](/assets/intellij-maven-project3.png)
+
+Finally, enter the project name \(e.g. JUnitExample\) and **Finish**.
+
+![](/assets/intellij-maven-project4.png)
+
+You might see a message \(shown bellow\) asking to import the Maven Project. Select **Enable Auto-Import**.
+
+![](/assets/intellij-maven-project5.png)
+
+This will generate your Project with a folder with the same name as the artifactId given \(**JUnitExample** in this case\). Under this folder, you will have to create a [standard project structure](/%28https://maven.apache.org/guides/introduction/introduction-to-the-standard-directory-layout.html).
 
 Start by creating the directory structure for the application main code.To do this, right click on the main project folder \(here, **JUnitExample**\) and select New-&gt;Directory.
 
