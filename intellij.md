@@ -26,7 +26,7 @@ You might see a message \(shown bellow\) asking to import the Maven Project. Sel
 
 This will generate your Project with a folder with the same name as the artifactId given \(**JUnitExample** in this case\). Under this folder, you will have to create a [standard project structure](/%28https://maven.apache.org/guides/introduction/introduction-to-the-standard-directory-layout.html).
 
-Start by creating the directory structure for the application main code.To do this, right click on the main project folder \(here, **JUnitExample**\) and select **New** \to **Directory**.
+Start by creating the directory structure for the application main code. To do this, right click on the main project folder \(here, **JUnitExample**\) and select **New** \to **Directory**.
 
 ![](/assets/intellij-maven-project6.png)
 
